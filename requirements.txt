@@ -19,3 +19,6 @@ streamlit-image-coordinates==0.1.6
 streamlit-keyup==0.2.4
 streamlit-toggle-switch==1.0.2
 streamlit-vertical-slider==2.5.5
+langchain-community
+huggingface_hub
+python-dotenv==1.0.0
